@@ -1,5 +1,5 @@
 # Mini-Project-23
-# 🖤 Convert olored Images to Greyscale using OpenCV
+# 🖤 Convert colored Images to Greyscale using OpenCV
 
 Transform your colorful images into classic black-and-white with this fast and beginner-friendly OpenCV script. 
 ---
